@@ -1,0 +1,55 @@
+
+ body{
+   background-color: #fafafa;
+   color: black;
+   font-family: Helvetica;
+ }
+ strong{
+   background-color: #FFAAAA;
+ }
+ form{
+   margin: 0 auto;
+   height: 200px;
+   width:250px;
+   font-size:20px
+   color: black;
+   display: inline-block;
+   text-align: center;
+   }
+   center{
+      font-size:20px
+   }
+
+  div{
+     background-color: #eeeeee;
+     height: 350px;
+     width:250px;
+  }
+
+section{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.registrateButton {
+      background : url("imagenes/registrate.png");
+      width: 100px;
+      height: 52px;
+      border: none;
+      color: black;
+      color : transparent;
+      background-size: 100px;
+      background-repeat: no-repeat;
+ }
+
+ .facebookButton{
+   background : url("imagenes/facebookLogin.png");
+    width: 100px; 
+    border: none;
+    color: black;
+    color : transparent;
+    background-size: 149px 10px;
+    background-repeat: no-repeat;
+ }
